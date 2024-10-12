@@ -47,6 +47,14 @@ As bases de dados originais foram obtidas dos seguintes links:
    - 🎓 Escolaridade e área de formação predominante.
    - 🕒 Tempo de experiência na área de dados por faixa etária.
 
+🔗 **Links Importantes**
+
+- **Tableau**: [Visualização Interativa no Tableau](https://public.tableau.com/app/profile/vera.felix/viz/diversidade-dados/Painel1#1)
+
+\- **Apresentação**: [Apresentação no Canva](https://www.canva.com/design/DAGScIVPqyE/X6USiBmqlgwPmYTXadn43A/edit?utm_content=DAGScIVPqyE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+\- **Github**: [Repositório do Projeto](https://github.com/Vera-Felix/on34-python-s17-s18-projeto-final)
+
 ## 📁 Estrutura do Repositório
 
 - `📄 base_diversidade.csv`: Base de dados utilizada para a análise.
